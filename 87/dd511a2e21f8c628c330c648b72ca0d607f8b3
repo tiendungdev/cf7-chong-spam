@@ -1,0 +1,21 @@
+README.md
+  s_37bb0a83c5c0b5::t_e585bdfcf716d0 1-50
+cf7-chong-spam.php
+  s_37bb0a83c5c0b5::t_eadc6b7ca6fe80 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "87dd511a2e21f8c628c330c648b72ca0d607f8b3",
+  "prompts": {},
+  "sessions": {
+    "s_37bb0a83c5c0b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b47831a-1f0e-484a-8fb9-0dd78776aaf4",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
